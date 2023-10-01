@@ -1,4 +1,5 @@
 - Hi, I'm @thaiutai! A final year biochemistry student studying at King's College London.
 - I'm interested in learning about the field of data analytics, data management, and everything tech!
-- During my penultimate year of university, I undertook an introductory module into programmming and fell in love with it. Recently I've also decided to pick up C# in the hopes of expanding my coding and programming skillset further.
+- During my penultimate year of university, I undertook an introductory module into programmming and fell in love with it.
+- Recently, I decided to pick up C#, in the hopes of expanding my coding and programming skillset further.
 - You can reach me via my personal e-mail: saharachthaiutai@outlook.com, thanks!
